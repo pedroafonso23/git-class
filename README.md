@@ -22,8 +22,6 @@ To add everything in the root: git add .
 
 Commit: git commit -m "added landing page"
 
---- file was modified ---
-
 See log: git log
 
 See status: git status

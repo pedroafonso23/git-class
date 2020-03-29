@@ -1,6 +1,6 @@
 # GIT and GITHUB - Pratical Guide
 
-# Installation: https://git-scm.com/download
+### Installation: https://git-scm.com/download
 
 # Scenes
 
@@ -12,6 +12,10 @@
 - You want to delete the branch of the new feature, after you applied it to your project
 
 - You wish to upload your project to the cloud
+
+- You will get an ongoing project to work in it with the team
+- You need to solve a conflict            
+- Before sending the resolution, we need to update the local project    
 
 # My notes
 
@@ -50,5 +54,5 @@ To see remote repositories: git remote -v
 
 For the first push (create master): git push -u origin master
 
-
+To work in an ongoing project: git clone <project link from GitHub>
 
